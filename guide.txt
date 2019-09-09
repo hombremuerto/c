@@ -1,0 +1,7 @@
+1) открыть терминал
+2) cd ~/karen/c/
+2.1) git pull
+3) git status(смотрим, все ли там нужно)
+4) git add .
+5) git commit -m "message"
+6) git push origin master
